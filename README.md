@@ -1,12 +1,12 @@
 # SunshineWeatherApp
 
-This app was built in conjunction with Udacity's Developing Android Apps class.  The final source code was pulled from their github repository at the end of the course.  Most of the code was worked on in different exercises throughout the course.
+This app was built in conjunction with Udacity's Developing Android Apps course I recently completed.  The final source code was pulled from their github repository.  Most of the code was worked on in different exercises throughout the course.
 
-Below are the paths to navigate to the most relevant code, including some explanation of what the code is.
+Below are the paths to navigate to the most relevant files, including some explanation of what the code included in the files does.
 
 # SunshineWeatherApp/app/src/main/java/com/example/android/sunshine/app
 
-This folder includes a majority of the .java files.  MainActivity.java is what launches when the app is opened.  This calls ForecastFragment.java to display the weather forecast.  SettingsActivity.java controls the settings menu where you can choose your location and launch the maps app to view the selected location.  DetailActivity.java and DetailFragment.java handle the forecast detail activity when you select a specific day from the ForecastFragment.
+This folder includes a majority of the .java files.  MainActivity is what launches when the app is opened.  This calls ForecastFragment to display the weather forecast.  SettingsActivity controls the settings menu where you can choose your location and launch the maps app to view the selected location.  DetailActivity and DetailFragment handle the forecast detail activity when you select a specific day from the ForecastFragment.
 
 # SunshineWeatherApp/app/src/main/java/com/example/android/sunshine/app/data
 
