@@ -15,3 +15,17 @@ This holds the database files and helpers for the weather app.  It pulls data fr
 https://github.com/adh636/SunshineWeatherApp/tree/master/app/src/main/res
 
 This folder holds all the resource xml files.  This is where the layout and value files are stored.  The layout files determine the UI of the app for the different activities and fragments.
+
+# Screenshots
+
+WeekView
+
+![weekview](https://cloud.githubusercontent.com/assets/12743215/12214542/17c1cf62-b666-11e5-9fc1-38fc78642361.jpg)
+
+DayView
+
+![dayview](https://cloud.githubusercontent.com/assets/12743215/12214543/19a5c964-b666-11e5-9e72-a53df5f29297.jpg)
+
+SettingsView
+
+![settingsview](https://cloud.githubusercontent.com/assets/12743215/12214545/1af6bc4c-b666-11e5-8686-009004052082.jpg)
