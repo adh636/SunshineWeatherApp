@@ -18,14 +18,14 @@ This folder holds all the resource xml files.  This is where the layout and valu
 
 # Screenshots
 
-WeekView
+#WeekView
 
 ![weekview](https://cloud.githubusercontent.com/assets/12743215/12214542/17c1cf62-b666-11e5-9fc1-38fc78642361.jpg)
 
-DayView
+#DayView
 
 ![dayview](https://cloud.githubusercontent.com/assets/12743215/12214543/19a5c964-b666-11e5-9e72-a53df5f29297.jpg)
 
-SettingsView
+#SettingsView
 
 ![settingsview](https://cloud.githubusercontent.com/assets/12743215/12214545/1af6bc4c-b666-11e5-8686-009004052082.jpg)
